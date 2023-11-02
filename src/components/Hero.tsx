@@ -1,5 +1,5 @@
-import React from "react"
-import { HiDownload } from "react-icons/hi"
+import React from "react";
+import { HiDownload } from "react-icons/hi";
 
 export default function Hero() {
   return (
@@ -8,13 +8,13 @@ export default function Hero() {
         <div className="container mx-auto flex max-w-4xl flex-col-reverse p-4 py-12 md:flex-row">
           <div className="basis-1/2">
             <h1 className="mb-6 text-center md:text-left">
-              <span className="block font-handwriting text-3xl">
+              <span className="block font-handwriting text-3xl md:text-5xl">
                 Olá, me chamo
               </span>
-              <span className="mr-2 font-headline text-5xl font-semibold">
+              <span className="mr-2 font-headline text-2xl md:text-5xl font-semibold">
                 Adriano
               </span>
-              <span className="font-headline text-5xl font-light text-blue-400">
+              <span className="font-headline text-2xl md:text-5xl font-light text-blue-400">
                 Grevizirsky
               </span>
             </h1>
@@ -25,7 +25,8 @@ export default function Hero() {
             </h2>
 
             <p className="mb-6 text-center text-gray-400 md:text-left">
-            Desenvolvedor Front-End Especializado em React: Criando Interfaces de Usuário Dinâmicas e Responsivas para a Web do Futuro.
+              Desenvolvedor Front-End Especializado em React: Criando Interfaces
+              de Usuário Dinâmicas e Responsivas para a Web do Futuro.
             </p>
 
             <div className="flex items-center justify-center gap-2 md:justify-start">
@@ -52,5 +53,5 @@ export default function Hero() {
       </section>
       <div className="absolute left-0 -mt-2 h-3 w-1/4 rounded-r-full bg-gradient-to-r from-blue-700 to-blue-600 md:w-1/3" />
     </>
-  )
+  );
 }

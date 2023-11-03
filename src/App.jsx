@@ -23,7 +23,6 @@ function App() {
       <footer>
         <Footer />
       </footer>
-      <p>Desenvolvedor Front-End Especializado em React: Criando Interfaces de Usuário Dinâmicas e Responsivas para a Web do Futuro</p>
     </>
   )
 }

@@ -11,17 +11,17 @@ import {
       {
         title: "Web",
         description:
-          "Desenvolvimento de sites e sistemas web estáticos e dinâmicos com React.js, Next.js, HTML5 e CSS3.",
+          "Desenvolvimento de sites e sistemas web estáticos e dinâmicos com React.js, HTML5 e CSS3.",
         icon: <HiComputerDesktop className="h-12 w-12" />,
       },
       {
-        title: "Sistemas",
-        description: "Desenvolvimento de sistemas e APIs REST com Node.js.",
+        title: "Back-end",
+        description: "Desenvolvimento de aplicações back-end robustas e eficientes com Python.",
         icon: <HiCommandLine className="h-12 w-12" />,
       },
       {
         title: "Mobile",
-        description: "Desenvolvimento de aplicativos Android e iOS.",
+        description: "Desenvolvimento de aplicativos iOS e React Native.",
         icon: <HiDevicePhoneMobile className="h-12 w-12" />,
       },
     ]
@@ -37,8 +37,7 @@ import {
             <span className="font-handwriting text-4xl">Serviços</span>
           </h2>
           <p className=" text-sm text-gray-600">
-            Posso atender uma gama completa de serviços, do front-end ao back-end
-            com banco de dados e sistemas.
+            Posso atender uma gama completa de serviços, do front-end ao back-end.
           </p>
         </div>
   

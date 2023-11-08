@@ -6,7 +6,7 @@ export default function About() {
         <div className="relative p-4 text-center">
           <h2 className="relative z-50 mb-2 font-bold text-blue-900">
             <span className="mr-2 font-headline text-3xl">Sobre</span>
-            <span className="font-handwriting text-4xl">mim</span>
+            <span className="font-handwriting text-4xl">Mim</span>
           </h2>
           <p className="relative text-sm text-gray-600">
             Tenho mais de 10 projetos executados e gostaria que o próximo seja o

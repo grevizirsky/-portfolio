@@ -33,7 +33,7 @@ export default function Skills() {
     },
     {
       name: "Python",
-      icon: "/public/Python_logo.png",
+      icon: "/Python_logo.png",
       level: 50,
     },
   ]
